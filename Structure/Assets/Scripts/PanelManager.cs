@@ -35,5 +35,4 @@ public class PanelManager : MonoBehaviour
             audi.volume = 0;
         }
     }
-
 }

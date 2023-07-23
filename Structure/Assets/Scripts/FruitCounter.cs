@@ -8,10 +8,7 @@ public class FruitCounter : MonoBehaviour
 
     void Update()
     {
-        if (gameObject.transform.childCount == 0)
-        {
-            questSolved = true; 
-        }
+        questSolved=true;
     }
 
     public static bool isQuestSolved()
